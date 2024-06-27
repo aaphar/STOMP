@@ -1,6 +1,5 @@
 package com.example.messaging_stomp_websocket.controller;
 
-import com.example.messaging_stomp_websocket.entities.Post;
 import com.example.messaging_stomp_websocket.request.PostRequest;
 import com.example.messaging_stomp_websocket.service.ChannelService;
 import org.springframework.beans.factory.annotation.Autowired;
